@@ -22,6 +22,6 @@ Without those two Bs, I may never have started asking the right questions.
 In hindsight, it wasn’t failure — it was a turning point.
 
 This repository marks the beginning of my attempt to explore, build, and understand more deeply.  
-I hope to record that process here, step by step — not in pursuit of perfection, but in pursuit of growth, clarity, and self-defined value.👻
+I hope to record that process here, step by step — not in pursuit of perfection, but in pursuit of growth, clarity, and self-defined value.
 
 _This reflection is personal, but I believe sharing the journey can be as important as the destination._
